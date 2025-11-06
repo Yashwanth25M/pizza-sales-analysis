@@ -85,4 +85,12 @@ The notebook includes:
 - **Pizza Size Contribution Pie Chart**  
 - **Ingredient Frequency Analysis**
 
-*(Optional)* — add rendered images in `/images` and reference them like:
+
+---
+
+## 🚀 How to Clone & Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/pizza-sales-analysis.git
+   cd pizza-sales-analysis
